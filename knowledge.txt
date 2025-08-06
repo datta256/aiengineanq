@@ -1,0 +1,772 @@
+﻿ANQ Finance Knowledge Base (Updated July 2025)
+What is ANQ
+ANQ Finance is a digital banking platform based in Bengaluru, founded in 2022, that blends traditional financial services with blockchain and Web3 technologies. It offers a unified platform for prepaid/credit cards, wealth-building rewards (bounties), crypto/gold asset conversions, fixed deposits, and merchant vouchers.
+CEO: Ashish Khandelwal
+Official site: anq.finance
+Core Services
+
+- Prepaid & Credit Cards: X Card(prepaid card)
+- Rewards System: Bounties in Bitcoin, Digital Gold, Aptos - instantly earned
+- Vouchers: 250+ brand vouchers with up to 25% bounty rewards
+- Anq Vault: Fixed deposit solution offering ~9.1% returns
+
+Products Offered
+X Card (Prepaid - RuPay): Once in a lifetime membership Fee, Issued instantly after KYC, 1% bounty in every transaction, redeemable in Gold, Bitcoin, Aptos, accepted at 9M+ merchants, NCMC enabled.
+
+X Card
+
+Description:
+A flexible, prepaid card available in both digital and physical formats. The card is issued almost instantly after KYC and a one-time payment, enabling immediate access for online and offline transactions.
+1. ABOUT THE PRODUCT/SERVICE
+The X Card is a reloadable prepaid card offered by ANQ Finance that enables seamless digital and physical transactions. Designed as a next-generation financial tool, the X Card allows users to earn rewards (bounties) on every transaction, integrate digital payments into daily life, and convert spending into asset accumulation (such as digital gold or cryptocurrency rewards). 
+The card is available in both digital and physical formats, ensuring convenience for various types of users.
+
+2. WHAT IS THIS PRODUCT?
+The X Card is a prepaid payment solution that operates on the RuPay network, making it widely accepted across India. It allows users to:
+
+* Load funds from their bank accounts using UPI.
+* Make purchases both online and offline at over 65 million merchants.
+* Earn bounties (reward points) on every transaction, which can be redeemed for digital assets like gold, Bitcoin, Aptos.
+* Access instant issuance via the ANQ app after completing KYC verification and paying once in a lifetime membership fee.
+* NCMC options like Bus, Metro etc., and spending limits.
+The X Card is positioned as India's first bounty card, aimed at transforming daily spending into a long-term wealth-building mechanism.
+
+3. WHY ONE SHOULD USE IT (BENEFITS AND FEATURES)
+The X Card is designed for users looking for a modern, rewarding, and secure payment solution.
+Key benefits include:
+INSTANT ISSUANCE & DIGITAL FORMAT
+* Users can get a digital X Card instantly upon completing KYC via the ANQ mobile app.
+* Physical cards are available for users who prefer a tangible option (after doing 1st load to the card of Rs 500). The option will be available to them after 48 hours of paying Rs 500.
+
+
+
+REWARD-DRIVEN TRANSACTIONS
+* Earn 1% of the transaction in bounties on every transaction.
+* Rewards can be converted into digital gold or cryptocurrencies.
+* Special offers and higher bounty percentages on select transactions (e.g., gift card
+* purchases offer up to 25% in bounties).
+* ZERO HIDDEN FEES & FLEXIBLE SPENDING
+* No annual fee.
+* Minimum limit Rs 10,000.
+* Top-up limit of ₹2 Lakh after doing VKYC, making it ideal for both small and large transactions.
+* Works across all RuPay network merchants (both online and offline).
+* Compatible with UPI and traditional payment methods.
+
+4. HOW TO USE IT/ENABLE IT (STEPS)
+STEP 1: DOWNLOAD THE ANQ APP
+Go to the Google Play Store or Apple App Store and search for ANQ Finance.
+Download and install the ANQ mobile app.
+
+STEP 2: COMPLETE KYC VERIFICATION
+Open the ANQ app and sign up using your mobile number.
+Complete the digital KYC process, which includes providing Aadhaar details, and PAN
+card.
+Once KYC is approved, you can proceed to activate your X Card.
+
+STEP 3: GET YOUR DIGITAL X CARD
+After KYC approval, your digital X Card is instantly issued in the app.
+You can start using it immediately for online transactions and UPI payments.
+
+STEP 4: LOAD FUNDS TO THE X CARD
+Add money to your X Card by linking your bank account and using UPI.
+Minimum limit after doing KYC is Rs 10,000
+Maximum top-up limit is ₹2 Lakh after Video-KYC.
+
+STEP 5: ORDER A PHYSICAL CARD (OPTIONAL)
+If you prefer a physical X Card, request it via the ANQ app after loading minimum of Rs 500 or more.
+The card will be shipped to your registered address after approval.
+Activate the physical card upon delivery through the ANQ app.
+
+STEP 6: START SPENDING AND EARNING REWARDS
+Use your X Card for online and offline transactions.
+Track and redeem your bounties through the app.
+Keep an eye out for special promotions and higher bounty offers on selected transactions.
+
+STEP 7: MANAGE SECURITY SETTINGS
+Set spending limits and activate security features like card freeze and transaction
+monitoring.
+Change your PIN or block your card if needed via the ANQ app.
+
+5. FAQ (FREQUENTLY ASKED QUESTIONS)
+Q1: HOW DO I OBTAIN THE X CARD? A: Follow these steps:
+1. Download the ANQ app from the Google Play Store or Apple App Store.
+2. Register with your mobile number and email.
+3. Complete KYC verification by uploading your Aadhaar, and PAN.
+4. Once approved, load funds via UPI.
+5. Your digital X Card will be instantly issued in the app.
+
+Q2: IS THERE ANY FEE FOR THE X CARD? 
+A: There is a once in a lifetime membership fee and enjoy the exciting rewards.
+
+Q3: WHERE CAN I USE MY X CARD?
+A: The X Card is accepted at over 9 million merchants across India via the RuPay network, supporting both online and offline transactions.
+
+Q4: HOW ARE BOUNTY REWARDS CALCULATED? 
+A: You earn 1% in bounties on every transaction, which can be redeemed for digital gold, Bitcoin or Aptos.
+
+Q5: WHAT IS THE MAXIMUM and MINIMUM TOP-UP LIMIT FOR THE X CARD? 
+A: The minimum top-up limit is ₹10,000 after doing KYC. 
+     The maximum top-up limit is ₹2 Lakh after doing Video-KYC.
+
+Q6: WHAT SHOULD I DO IF MY X CARD IS BLOCKED? 
+A: If your card is blocked, check in the ANQ app under Card Settings. If it is not manually blocked, contact customer support to verify the reason.
+
+Q7: WHY HAS MY AADHAAR AUTHENTICATION FAILED? 
+A: This may occur if your Aadhaar or PAN details are incorrect. Please ensure you enter the correct details and retry.
+
+Q8: WHAT IF I AM UNABLE TO RECEIVE THE OTP FOR AADHAAR AUTHENTICATION? 
+A: Ensure that your mobile number is linked to your Aadhaar and retry after some time. If the issue persists, it may be due to UIDAI server downtime.
+
+Q9: HOW DO I RESET MY X CARD PIN? 
+A: Reset your PIN through the ANQ app under the Card Settings section. There will be option "Change card pin".
+Q10: WHAT SHOULD I DO IF MY PHYSICAL X CARD IS NOT DELIVERED? 
+A: Check your delivery status in the ANQ app. If delayed beyond the expected timeline, contact customer support for assistance.
+
+Q11: WHAT SHOULD I DO IF MY X CARD IS LOST OR STOLEN? 
+A: Immediately freeze or block your card in the ANQ app and request a replacement.
+
+Q12: HOW DO I REDEEM MY BOUNTY REWARDS? 
+A: Open the ANQ app, go to the Rewards section, and choose to redeem your bounties for digital gold, Bitcoin, or Aptos.
+
+Key Features:
+* Instant Issuance: Download the ANQ app, Pay once in a life time membership fee, complete KYC, and get your digital card within minutes.
+* Reward Mechanism: Earn "bounties" on every transaction that can later be redeemed in the form of digital gold , Bitcoin or Aptos.
+* Enhanced Security: Includes features like PIN change, freeze/block options, and transaction limits with military-grade encryption.
+* Seamless Transactions: Works across the RuPay network and supports a
+variety of payment methods.
+User Benefits: Offers a smart way to manage budgets, earn rewards on daily spending, and build a
+portfolio of valuable assets without hidden fees.
+- Bank: Issued by Pine Labs, Network: RuPay, Partner: NPCI
+- Type: Prepaid
+- Membership: Once in a lifetime membership Fee
+- Rewards: 1% bounty on every transaction
+- Annual Fee: ₹0
+- Lounge Access: No
+- International Use: No
+- Asset Redemption: Yes (BTC/Gold/Aptos)
+
+6️⃣ Rewarding System - "Bounties"
+
+- Every eligible transaction earns instant bounty in one of 3 assets:
+  - Bitcoin (BTC)
+  - Digital Gold
+  - Aptos (APT)
+- No manual claiming needed; credited within 24 hrs
+- Bonus bounties available on:
+  - Gift card purchases (up to 25%)
+  - Select partner brands (Anq Shopping)
+
+7️⃣ Why These Rewards Are Better Than Cashback
+
+- Market value is always increasing
+- Market-linked value (not fixed)
+- No expiry
+- Redeemable across crypto/gold
+- Functions as micro-investment, not just discount
+
+8️⃣ Prepaid Card Bounty Terms
+
+- Reward Rate: 1% of merchant transaction
+- Assets: BTC, Gold, or Aptos
+- Terms: Minimum spend (e.g. ₹150)
+- No caps or daily limits
+- Instant redemption in app
+
+9️⃣ Asset Growth (Jul 2024 - Jul 2025)
+
+- Bitcoin: +62%
+- Digital Gold: +14%
+- Aptos: +118%
+(Source: CoinMarketCap & TradingView averages)
+
+🔟 ANQ's Differentiation from Market
+
+- Real assets (BTC, Gold, Aptos) vs points
+- Choice & flexibility for redemption
+- Single app for cards, savings, loans, shopping
+- Instant card issuance + ₹0 joining fees
+- Web3-ready ecosystem with crypto-backed lending and FDs
+- No hidden charges
+- Military-grade security and app-first experience
+
+🎯 GIFT CARD
+
+Description:
+ANQ Finance extends its ecosystem with a dedicated Gift Card solution, allowing customers to purchase various gift cards-including popular options like Amazon Pay Gift Cards-using their X Card. These gift card transactions are designed to be even more rewarding, offering bonuses that complement the regular bounty system.
+
+1. ABOUT THE PRODUCT/SERVICE
+The ANQ Gift Card is a digital prepaid voucher that allows users to make purchases across multiple merchant platforms. It provides flexibility, convenience, and enhanced reward benefits, making it a perfect choice for both personal use and gifting purposes.
+The ANQ Gift Card integrates with a wide range of merchants, including e-commerce platforms, food delivery services, entertainment, and travel portals. It eliminates the need for physical cash or card transactions, offering a secure and instant payment solution.
+
+2. WHAT IS THIS PRODUCT?
+The ANQ Gift Card is a prepaid digital card that can be purchased via the ANQ app and redeemed at partnered merchants. Users can select the amount, purchase a gift card, and use it for transactions without requiring a linked bank account or credit card.
+Key Features of ANQ Gift Card:
+* Prepaid Balance: Users can load a fixed amount while purchasing the card.
+* Multi-Merchant Use: Can be redeemed across partnered brands, including e-commerce, travel, and lifestyle merchants.
+* Instant Issuance: Delivered digitally via the ANQ app under My Vouchers section.
+* Flexible Denominations: Available in various denominations, allowing users to choose the preferred amount.
+* Secured Transactions: Eliminates the risk of carrying cash; supports encrypted transactions.
+* Reward Points: Earn up to 25% bounty rewards upon purchase.
+
+3. WHY ONE SHOULD USE IT (BENEFITS AND FEATURES)
+🔹 CONVENIENCE & INSTANT ISSUANCE
+No waiting time; gift cards are issued instantly upon purchase.
+Available 24/7 within the ANQ app.
+Eliminates the need to carry multiple payment methods.
+
+🔹 WIDE RANGE OF MERCHANTS
+Supports 65 million partner merchants, including Amazon, Flipkart, Swiggy, Zomato, MakeMyTrip, and more.
+Can be used for shopping, dining, travel, entertainment, and subscriptions.
+
+🔹 REWARD SYSTEM & CASHBACK
+Up to 25% bounty rewards earned on each gift card purchase.
+Can be redeemed for digital assets like Bitcoin, gold, or Aptos.
+
+🔹 NO EXPIRY & FLEXIBILITY(Terms and Conditions Applied)
+Most gift cards do not expire, allowing users to redeem them at their convenience.
+Users can send gift cards to friends or family for special occasions.
+
+🔹 ENHANCED SECURITY
+No risk of fraud since no physical card is involved.
+Transactions are secured with multi-layer encryption.
+Users can track and manage their gift card balance via the ANQ app.
+
+4. HOW TO USE IT/ENABLE IT (STEP-BY-STEP GUIDE)
+📌 STEP 1: DOWNLOAD & LOG INTO THE ANQ APP 
+1. Open the Google Play Store or Apple App Store.
+2. Download and install the ANQ Finance app.
+3. Log in using your registered mobile number.
+📌 STEP 2: NAVIGATE TO THE GIFT CARD SECTION 
+1. Open the ANQ app dashboard.
+2. Select 'Vouchers' from the main menu.
+📌 STEP 3: CHOOSE THE DESIRED GIFT CARD 
+1. Browse from the list of available merchants and denominations.
+2. Select the merchant where you want to use the gift card.
+3. Enter the desired amount (ensuring it falls within the available denominations).
+📌 STEP 4: COMPLETE THE PAYMENT 
+1. Choose a payment method (UPI or X Card).
+2. Confirm the transaction and proceed with payment.
+📌 STEP 5: RECEIVE & REDEEM THE GIFT CARD 
+1. Once payment is completed, the digital gift card code will be issued instantly.
+2. The gift card can be accessed under 'My Gift Cards' in the ANQ app.
+3. Copy the voucher code and use it on the merchant's checkout page during payment.
+4. Enter the code in the required field and confirm the redemption.
+📌 STEP 6: TRACK USAGE & MANAGE REWARDS 
+1. Monitor your gift card within the ANQ app.
+2. Track earned bounty rewards in the Rewards section.
+3. Redeem bounties for digital gold, Bitcoin, or cashback.
+
+5. FAQ (FREQUENTLY ASKED QUESTIONS)
+
+Q1: WHERE CAN I CHECK MY PAST GIFT CARD TRANSACTIONS? 
+A: You can view your most recent transactions in the ANQ app under the Transaction History section.
+
+Q2: I PURCHASED A GIFT CARD, BUT THE AMOUNT WAS DEDUCTED, AND I HAVEN'T
+RECEIVED THE CARD. WHAT SHOULD I DO? 
+A: If the status of your Gift Card is marked as failed in the ANQ app:
+1. Check your Transaction History to confirm the payment status.
+2. If the transaction is pending, wait 24 hours for automatic processing.
+3. If the card is still not received, contact customer support with the transaction details.
+
+Q3: MY GIFT CARD CODE IS NOT WORKING OR HAS EXPIRED. WHAT SHOULD I DO? 
+A: If your gift card code is not working:
+1. Ensure the card has not been used or expired.
+2. Verify the merchant's redemption terms.
+3. If the issue persists, contact ANQ customer support to check the gift card status.
+
+Q4: I PURCHASED A GIFT CARD BUT DID NOT RECEIVE BOUNTY REWARDS. WHY? 
+A: Bounties are automatically credited for each Gift Card purchase. If you did not receive rewards:
+1. Check the Rewards section in the ANQ app.
+2. Ensure that the transaction was successful and completed.
+3. If rewards are still missing, contact customer support for resolution.
+
+
+Q5: MY GIFT CARD TRANSACTION FAILED. WILL I GET A REFUND? 
+A: If the transaction failed while purchasing a Gift Card:
+1. The amount will be automatically refunded within 3-5 business days.
+2. Check the ANQ app transaction history for the refund status.
+3. If not refunded within the given timeframe, escalate the issue to customer support.
+
+Q6: WHY DID MY PAYMENT FAIL BUT THE AMOUNT WAS DEDUCTED? 
+A: If your transaction failed but money was deducted:
+1. Check the Transaction History in the ANQ app.
+2. If the status is pending, wait 24-48 hours for automatic reversal.
+3. If not refunded within this period, escalate to customer support.
+
+Q7: WHY HAS MY CARD LOAD TRANSACTION FAILED? 
+A: Possible reasons include:
+1. Insufficient balance in your X card.
+2. Bank server issues causing delays.
+3. Exceeded card limits-check your available credit.
+
+Q8: HOW DO I CHECK IF MY REFUND HAS BEEN PROCESSED? 
+A: Refunds typically take 10 business days. To check:
+1. Open the ANQ app and go to Transaction History.
+2. If the refund is not reflected, contact customer support with transaction details.
+
+Q9: MY GIFT CARD TRANSACTION FAILED. WILL I GET A REFUND? 
+A: If the transaction failed while purchasing a Gift Card:
+1. The amount will be automatically refunded within 10 business days.
+2. Check the ANQ app transaction history for the refund status.
+3. If not refunded within the given timeframe, escalate the issue to customer support.
+Q9: MY AADHAAR AUTHENTICATION FAILED DURING PAYMENT VERIFICATION. WHAT
+SHOULD I DO? 
+A: This could be due to UIDAI server issues:
+1. Retry the authentication after a few minutes.
+2. Ensure the correct mobile number linked to Aadhaar is used.
+3. If the issue persists, escalate to KYC Support.
+
+Q10: MY TRANSACTION IS SUCCESSFUL, BUT THE MERCHANT DID NOT RECEIVE THE
+PAYMENT. 
+A: If the transaction shows successful in ANQ but failed at the merchant:
+1. Check if the amount has been deducted.
+2. If deducted, wait 24-48 hours for automatic processing.
+3. If not resolved, contact customer support with the transaction ID.
+
+Q11: WHY IS MY CARD BLOCKED FROM MAKING TRANSACTIONS? 
+A: Possible reasons include:
+1. Exceeded transaction limits.
+2. Suspicious activity flagged for security reasons.
+3. Card temporarily locked-unlock via the ANQ app.
+
+Q12: HOW DO I DISPUTE AN UNAUTHORIZED TRANSACTION? 
+A: If you notice an unknown charge:
+1. Freeze your card immediately via the ANQ app.
+2. Contact customer support to report unauthorized activity.
+3. File a dispute claim for investigation.
+
+Q13: HOW CAN I TRACK MY PENDING TRANSACTIONS? 
+A: Pending transactions appear in the Transaction History with a processing status.
+1. Standard processing time: 1-3 business days.
+2. Contact customer support if it exceeds the given timeframe.
+
+Q14: WHAT SHOULD I DO IF MY TRANSACTION IS FLAGGED AS FRAUDULENT? 
+A: If a transaction is declined due to security checks:
+1. Verify the transaction in the ANQ app.
+2. Retry using a different payment method.
+3. Contact customer support to whitelist the transaction.
+
+Q15: MY PAYMENT IS STUCK IN PROCESSING. WHAT SHOULD I DO? 
+A: Some transactions take longer due to network issues:
+1. Wait 30 minutes to 1 hour and check again.
+2. If still processing, contact customer support.
+
+Q16: I RECEIVED A REFUND, BUT THE AMOUNT IS INCORRECT. 
+A: If you received a partial refund:
+1. Verify the refund breakdown in the ANQ app.
+2. If incorrect, escalate to Finance Team.
+
+Q17: CAN I CANCEL A TRANSACTION AFTER INITIATING IT? 
+A: No, once a transaction is processed, it cannot be reversed.
+1. If unauthorized, raise a dispute.
+
+Q18: WHY IS MY TRANSACTION DECLINED DESPITE HAVING A SUFFICIENT BALANCE? 
+A: Possible reasons include:
+1. Merchant restrictions on card type.
+2. Bank security checks blocking the transaction.
+
+Q19: MY REFUND WAS APPROVED BUT IS STILL NOT CREDITED. 
+A: Refunds take 10 business days. If delayed, contact customer support team.
+
+Q20: MY UPI TRANSACTION FAILED, BUT MY ACCOUNT WAS DEBITED. 
+A: UPI reversals happen automatically within 24-48 hours.
+1. If not reversed, escalate to UPI Support Team.
+
+Q21: I WAS DOUBLE CHARGED FOR A SINGLE TRANSACTION. 
+A: If duplicate charges appear:
+1. Verify in the Transaction History.
+2. Raise a dispute via customer support.
+
+Q22: WHY WAS MY TRANSACTION DECLINED DUE TO 'RISK CHECK'? 
+A: This means the transaction triggered fraud detection systems:
+1. Use an alternative payment method.
+2. Contact support to verify your identity.
+
+Q23: MY RECURRING PAYMENT WAS DECLINED. 
+A: Possible reasons:
+1. Expired card details.
+2. Insufficient balance.
+3. Merchant not supporting auto-debit.
+
+Key Features:
+* Instant Bounties: When you buy gift cards with your X Card, you earn extra bounty on your purchase (Terms and Conditions Applied)- without a cap.
+* Enhanced Rewards on Purchases: Gift card transactions are integrated seamlessly within the ANQ ecosystem, which means you continue to earn bounties that can later be redeemed as digital assets (BTC/Gold/Aptos).
+* User-Friendly Offers: Special promotions and limited-time deals may further enhance the rewards for gift card purchases. These offers are communicated through the app notifications or Blogs (with fair usage policies in place).
+
+User Benefits: Provides an additional layer of flexibility, allowing users to gift or use high-demand gift cards while maximizing their reward potential. This solution makes it easy to turn routine purchases into significant savings and wealth accumulation opportunities.
+
+
+🎯 How to redeem Gift for different merchants
+
+Amazon Pay Gift Card 
+Important Terms: 
+* Valid for 365 days. 
+* No fees. 
+* Cannot be refunded or returned. 
+* Redeemable on all products on Amazon except: 
+o Apps 
+o Certain Global Store products 
+o Other Amazon Pay Gift Cards 
+o Amazon Business transactions 
+Redemption Steps: 
+1. Go to amazon.in/addgiftcard. 
+2. Enter the 14-digit alpha-numeric code (e.g. 8U95-Y3E8CQ-29MPQ). 
+3. Balance will get added to your Amazon Pay account. 
+4. Use balance during checkout on eligible products. 
+5. Redemption video: https://gftr.it/amzvid 
+ 
+
+Amazon Shopping Voucher 
+Important Terms: 
+* Can be used to buy discounted products. 
+* Balance usable multiple times. 
+* Not valid for Amazon Business transactions. 
+* Key Difference: 
+o Gift Cards: Accepted on/off Amazon, anywhere Amazon Pay Balance is accepted. 
+o Shopping Vouchers: Only on Amazon.in for physical products. 
+Redemption Steps: 
+1. Go to www.amazon.in/vouchers. 
+2. Apply the voucher at checkout for eligible items. 
+3. Use balance till exhausted. 
+4. More details: www.amazon.in/vouchers 
+ 
+
+Blinkit 
+Important Terms: 
+* Usable at blinkit.com and app. 
+* Only one voucher per transaction. 
+* Can be reused multiple times till balance is exhausted. 
+* Cannot be combined with promo codes or bank offers. 
+Redemption Steps: 
+1. Add products to cart. 
+2. Apply voucher code at payment stage. 
+3. Balance reduces accordingly. 
+ 
+
+Flipkart 
+Important Terms: 
+* Valid on app & website. 
+* Can be used on most products. 
+* Max 15 vouchers per transaction. 
+* Each voucher can be reused multiple times. 
+Redemption Steps: 
+1. Add products to cart. 
+2. Apply voucher at payment. 
+3. Max 15 vouchers can be clubbed. 
+4. Balance reduces with each use. 
+5. Redemption video: https://gftr.it/fkvid 
+ 
+
+MakeMyTrip 
+Important Terms: 
+* Usable for flights, hotels, holidays on website & app. 
+* Max 3 e-Pay GVs per transaction. 
+* Cannot be clubbed with ongoing offers. 
+Redemption Steps: 
+1. Go to makemytrip.com or app. 
+2. Choose flights/hotels/holidays. 
+3. Apply voucher code at checkout. 
+4. Max 3 vouchers allowed. 
+5. Redemption help: https://gftr.it/3kov 
+ 
+
+Myntra 
+Important Terms: 
+* Can be used on app & website. 
+* Multiple vouchers can be clubbed. 
+* Valid on discounted products too. 
+Redemption Steps: 
+1. Shop at myntra.com or app. 
+2. Apply voucher at payment page. 
+3. Combine multiple vouchers if needed. 
+ 
+
+JioMart 
+Important Terms: 
+* One-time use only. 
+* Multiple vouchers cannot be clubbed. 
+* Not valid on: 
+o 3P (third-party) products. 
+o Gold/Silver coins & fine jewellery. 
+Redemption Steps: 
+1. Shop on JioMart app/site. 
+2. Apply single voucher at payment. 
+3. Cannot combine with other vouchers. 
+ 
+
+Reliance Retail Outlets 
+Important Terms: 
+* Usable to buy discounted products. 
+* One-time use. 
+* Multiple vouchers can be used in one bill. 
+* Not accepted online. 
+Redemption Steps: 
+1. Find nearest store: https://storelocator.ril.com/Retail.aspx 
+2. Shop in-store. 
+3. Present voucher(s) at checkout. 
+ 
+
+Swiggy Instamart 
+Important Terms: 
+* Usable only on Swiggy Instamart app. 
+* Can be used for discounted products. 
+* If unredeemed by expiry, voucher expires. 
+* Once loaded to Swiggy Wallet, valid for 365 days. 
+Redemption Steps: 
+1. Shop on Swiggy Instamart app. 
+2. Apply voucher code during payment. 
+3. If loaded to wallet - use balance within 365 days. 
+
+
+AJIO
+📌 Important Terms 
+* Issued by Pine Labs Private Limited. 
+* Usable only on AJIO website/app. 
+* Cannot be: 
+o Redeemed for cash/credit. 
+o Reloaded. 
+o Used to buy other gift cards or H&M products. 
+* Valid for 12 months from issue date. 
+* Once added to AJIO Wallet (AJIO Cash), valid for 365 days. 
+* Balance after a purchase stays as AJIO Cash. 
+* Taxes, duties, and charges borne by user. 
+* AJIO not liable for lost/stolen cards. 
+* Return, refund & warranty policies per AJIO's standard terms. 
+ 
+🎁 Redemption Steps 
+1. Log in to AJIO app/website. 
+2. Add E-Gift Card value to AJIO Wallet. 
+3. Use AJIO Cash at checkout. 
+4. Pay any remaining balance via other payment modes. 
+5. Track transactions via AJIO Wallet. 
+6. For help, contact support@woohoo.in or visit AJIO Help. 
+
+
+Domino's E-Gift Card 
+📌 Important Terms 
+* Available in denominations between ₹100 to ₹3000. 
+* Usable only on Domino's India app, mobile website (PWA), and desktop website. 
+* Not redeemable for cash. 
+* Validity: 180 days from issue date. 
+* One EGC per order. 
+* Unused balance expires post validity. 
+* Cannot be cancelled, refunded, or replaced if lost/stolen. 
+* No pre-order discounts (EDV, Combos, Guarantees) apply on EGC orders. 
+* Not redeemable at physical stores. 
+* Remaining balance (if order exceeds EGC value) can be paid only by cash. 
+* Balance check: Domino's EGC Balance 
+* For help: guestcaredominos@jublfood.com 
+ 
+🎁 Redemption Steps 
+1. Open Domino's app, website, or PWA. 
+2. Add items to cart. 
+3. At payment, select E-Gift Card as payment option. 
+4. Enter EGC details. 
+5. If order value exceeds card value, pay the difference in cash only. 
+6. Track remaining balance via the balance enquiry link. 
+
+
+🎫 EaseMyTrip Gift Card - Key Terms 
+* Use for: Flights, Hotels, Holidays on Easemytrip.com / App 
+* Validity: 12 months from issue 
+* Max Usage: 3 cards per booking 
+* Partial Use: Balance stays usable within validity 
+* Excess Amount: Pay via Credit/Debit Card, UPI, Net Banking 
+* Convenience Fee: Always extra, not covered by gift card 
+* Refund on Failure: Auto-refunded to same card 
+* No Clubbing: Not valid with other offers/cashbacks 
+* Purchase via: Indian Credit/Debit Card, UPI, Net Banking 
+* Not Replaceable: If lost/stolen 
+* No Resale / Reload: Cannot buy other gift cards 
+* For Individual Use Only: Travel agent bookings get cancelled 
+* Check Balance: Here 
+ 
+✈️ Redemption Steps 
+1. Book Flights/Hotels/Holidays on Easemytrip.com or App 
+2. Select Gift Card at payment 
+3. Enter Card Number & PIN 
+4. Pay any extra + convenience fee via other modes 
+5. Complete booking 
+
+
+🎁 FirstCry E-Gift Card - Key Terms 
+* Use on: FirstCry.com (account required) 
+* Validity: 1 year from purchase 
+* Redemption: Enter gift card code at checkout 
+* Payment Split: Gift card used first, balance via Credit Card 
+* Multiple Use: Same card can be used over multiple orders 
+* 1 Card per Order: Multiple cards can't be combined 
+* Refund on Cancellation: Back to the same gift card 
+* No Cash Redemption & Non-replaceable if lost/stolen 
+* Valid for orders shipped within India only 
+* Delivery Time: Usually instant, may take 48-72 hrs in rare cases 
+ 
+🛒 Redemption Steps 
+1. Log in / Sign up on FirstCry.com 
+2. Add products to your cart 
+3. Enter E-Gift Card code at checkout 
+4. Pay remaining amount (if any) via Credit Card 
+5. Complete your order 
+
+
+🎁 Nykaa E-Gift Card - Key Terms 
+* Issued by: Pine Labs (under brand 'Qwikcilver') 
+* Validity: 365 days from issue 
+* Buy via: Credit/Debit Card, Net Banking, UPI (online & at Nykaa stores) 
+* Use on: 
+o Nykaa.com 
+o Nykaaman.com 
+o Nykaafashion.com 
+o Nykaa retail stores 
+* Multiple Gift Cards: Only one per order, but you can link multiple to your Nykaa Wallet 
+* Split Payments: If order exceeds card value, pay the balance via other methods 
+* Can Combine with: Promo codes and other payment options 
+* Not Valid for: Gold/Silver Coins, Bars, Jewellery, or other gift card purchases 
+* No cash redemption / reload 
+* Loss/Theft: Not replaceable 
+ 
+🛒 Redemption Steps 
+Online (Website/App) 
+1. Add items to cart 
+2. Choose 'Gift Card' at payment 
+3. Enter 16-digit code + PIN → Apply 
+4. Pay remaining balance if any 
+In-Store (Nykaa Retail) 
+1. Pick your products 
+2. At checkout, request to pay via Gift Card 
+3. Share 16-digit code + PIN with cashier 
+4. Settle any balance via other methods 
+
+
+🎁 Pantaloons E-Gift Voucher - Key Terms 
+* Use at: Any Pantaloons store across India (not valid at shop-in-shops or on jewellery) 
+* Validity: 1 year from date of issue (no extensions allowed) 
+* Redemption: 
+o Redeemable only once and by the bearer 
+o Full redemption only - no partial use allowed 
+o Not redeemable for cash or credit 
+o Can't be exchanged for another voucher/gift card 
+* Lost/Compromised Vouchers: No replacement or refund if lost, misplaced, or misused 
+* Customer's Responsibility: Ensure correct mobile number & email ID for receiving redemption code 
+* Jurisdiction: Mumbai courts 
+* Store Locator: Click here 
+Pantaloons E-Gift Voucher 
+?? Important Terms 
+* Redeemable at Pantaloons stores across India (not valid at shop-in-shops & on jewelry). 
+* Valid for 1 year from date of issue; no extensions allowed. 
+* Single-use only; must be redeemed in full. 
+* Cannot be redeemed for cash, credit, or exchanged for another voucher. 
+* No duplicate if lost/misplaced. 
+* Customer must provide correct mobile number & email ID for voucher code delivery. 
+* Protect your voucher details - Pantaloons is not liable for misuse. 
+* Subject to Pantaloons' terms and Mumbai jurisdiction. 
+* For store locations: Pantaloons Store Locator 
+🎁 Redemption Steps 
+1. Visit any Pantaloons store in India. 
+2. Select your products (excluding jewelry and shop-in-shop items). 
+3. At billing, inform the cashier you'll pay via E-Gift Voucher. 
+4. Share your E-Gift Voucher code and PIN. 
+5. The voucher must be redeemed in full in a single transaction. 
+ 
+
+
+Uber E-Gift Card 
+📌 Important Terms 
+* Issued by Pine Labs under the Qwikcilver brand. 
+* Redeemable only within India and requires an active Uber account. 
+* Valid for 12 months from activation. 
+* Cannot be reloaded, cancelled, or exchanged for cash. 
+* Balance can be used for multiple rides/orders until exhausted. 
+* Uber/Pine Labs not responsible if lost, stolen, or misused. 
+* KYC details may be required as per RBI guidelines. 
+* Subject to Uber and Pine Labs' terms, and courts in Delhi/Bangalore have jurisdiction. 
+* Max value per card ₹10,000; no limit on how many cards you can add. 
+🎁 Redemption Steps 
+To Add Gift Card to Uber App: 
+1. Ensure you have the latest Uber app. 
+2. Tap the menu icon and select "Payment". 
+3. Tap "Add Payment Method" → choose "Gift Card". 
+4. Enter your Gift Card code (without spaces). 
+To Use Uber Gift Card: 
+1. Enter your destination in the Uber app. 
+2. On the payment screen, select Payment Method. 
+3. If multiple profiles exist, select Change payment method. 
+4. Ensure Uber Credits toggle is ON to use Gift Card balance. 
+5. If the balance is insufficient, the remaining amount will be charged to your alternate payment method. 
+6. No additional charges or fees apply. 
+Westside E-Gift Voucher 
+📌 Important Terms 
+* Redeemable for any products/merchandise at Westside stores in India (not valid at cafés/food courts). 
+* Valid for 1 year from date of issue; no extensions permitted. 
+* Single-use only; no partial redemption allowed. 
+* If your purchase exceeds the voucher value, the balance must be paid by you. 
+* Valid during End of Season Sales, Promotions & Offers. 
+* Cannot be exchanged for cash, gift cards, or credit notes. 
+* No replacement or refund if lost, misplaced, or stolen. 
+* Disputes subject to Mumbai court jurisdiction. 
+* For detailed terms, visit Westside Terms. 
+* To check voucher balance: SMS 'WS [Card Number]' to 09094774499. 
+* Store Locator: Find a Westside Store Near You 
+🎁 Redemption Steps 
+1. Visit any Westside store in India. 
+2. Select your preferred products (excluding café/food court items). 
+3. At billing, inform the cashier you'll pay via E-Gift Voucher. 
+4. Provide your Gift Card Code and PIN correctly. 
+5. The voucher must be redeemed in full in a single transaction. 
+6. If your bill exceeds the voucher value, pay the remaining amount by cash/card. 
+
+
+Zepto E-Gift Card 
+📌 Important Terms 
+* Issued by Pine Labs Pvt. Ltd., valid for 12 months from activation. 
+* Redeemable only on Zepto App (version 24.10.3 & above) and www.zeptonow.com within India. 
+* Requires an active Zepto account with valid name, mobile number, and email. 
+* Cannot be reloaded, resold, cancelled, transferred, or redeemed for cash. 
+* If order value exceeds Gift Card balance, pay remaining via card/UPI/netbanking. 
+* If order value is less, remaining balance can be used for future orders within card validity. 
+* Maximum value per Gift Card: ₹10,000; maximum cumulative value per user per month: ₹5,00,000. 
+* Pine Labs/Zepto not liable for lost/stolen Gift Cards or products purchased using them. 
+* Gift Card may be voided in cases of fraud, unlawful use, or KYC non-compliance. 
+* For balance check: visit the Payments section in your Zepto App. 
+* For customer support: email support@zeptonow.com. 
+* Disputes subject to Bangalore court jurisdiction. 
+🎁 Redemption Steps 
+1. Download the Zepto App (version 24.10.3 or above) or visit www.zeptonow.com. 
+2. Log in to your Zepto account. 
+3. Go to My Profile / Settings. 
+4. Select Zepto Cash & Gift Card. 
+5. Click on Add Card. 
+6. Enter the 16-digit Gift Card Number and 6-digit PIN. 
+7. Click Submit. 
+8. The amount will be added to your Zepto balance and can be used during checkout. 
+9. At checkout, select the Gift Card balance as the preferred payment method. 
+10. If bill exceeds Gift Card balance, pay the remaining using other available options. 
+
+
+📌 Zomato E-Gift Card 
+✅ Important Terms: 
+* Issued by Pine Labs Pvt Ltd, authorized by RBI. 
+* Valid for 4 years from the date of activation. 
+* Can only be redeemed on the Zomato app & website for eligible products. 
+* Cannot be reloaded, cancelled, refunded, or exchanged for cash. 
+* Cards can be purchased in denominations between ₹100 and ₹10,000. 
+* Can be combined with promotional codes and other payment methods. 
+* If your order exceeds the Gift Card balance, pay the difference via other available payment options. 
+* Non-transferable between Zomato accounts. 
+* Gift Card number (16 digits) and PIN (6 digits) must be kept confidential. 
+* Usage of Gift Cards is subject to KYC and RBI compliance. Zomato/Pinelabs may request user information as needed. 
+* In case of loss, theft, or misuse, neither Zomato nor Pinelabs is responsible for replacement. 
+* Any fraudulent or unlawful use may lead to account suspension and cancellation of Gift Card. 
+* Customer care: 
+📧 giftcards@zomato.com 
+📞 1800 102 4438 (Pinelabs) 
+ 
+🎁 How to Redeem: 
+1. Log in to your Zomato app or website. 
+2. Go to Profile → Payments & Gift Cards. 
+3. Select Add Gift Card. 
+4. Enter your 16-digit Gift Card number and 6-digit PIN. 
+5. The balance will be added to your Zomato Account. 
+6. Use the balance at checkout - if the bill exceeds the Gift Card balance, pay the rest via card/UPI/netbanking. 
+ 
+
