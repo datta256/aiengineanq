@@ -1,8 +1,8 @@
-FROM ubuntu:22.04
+FROM node:20
 
 # Install dependencies
 RUN apt-get update && \
-    apt-get install -y curl wget ca-certificates gnupg nodejs npm
+    apt-get install -y curl wget ca-certificates gnupg
 
 # Install Ollama
 RUN curl -fsSL https://ollama.com/install.sh | bash
@@ -16,11 +16,11 @@ RUN npm install
 # Copy the rest of your code
 COPY . .
 
-# Download embedding model for Ollama
-RUN ollama pull nomic-embed-text:latest
 
 
 EXPOSE 3001
 
-# Start Ollama in the background, then Node.js app
-CMD ollama serve & sleep 5 && node index.js
+# Start Ollama in the background, pull the model, then start Node.js app
+CMD ollama serve & \
+  bash -c 'until curl -s http://localhost:11434; do sleep 1; done; ollama pull nomic-embed-text:latest' && \
+  node index.js
