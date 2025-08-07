@@ -19,8 +19,6 @@ COPY . .
 # Download embedding model for Ollama
 RUN ollama pull nomic-embed-text:latest
 
-# Download LLM model (if needed)
-RUN ollama pull mistral:latest
 
 EXPOSE 3001
 
