@@ -38,7 +38,6 @@ function cosineSimilarity(vecA, vecB) {
 }
 
 /** ---------------- Role Classification ---------------- */
-
 const agentPrompts = {
   customer_support: "You are a helpful and empathetic customer support agent. ONLY answer from the given context. If the answer is not found, say: 'will forward this to our customer agent'.",
   sales_agent: "You are a persuasive and friendly sales representative. ONLY answer from the given context. If the answer is not found, say: 'will forward this to our sales agent'.",
@@ -97,7 +96,6 @@ async function classifyRole(query) {
 }
 
 /** ---------------- Question Validation ---------------- */
-
 const questionValidationPrompt = PromptTemplate.fromTemplate(`
 You are a question validation assistant.
 
@@ -137,8 +135,48 @@ async function validateQuestion(query) {
   return label === "valid";
 }
 
-/** ---------------- Knowledge Base + Embeddings ---------------- */
+/** ---------------- Question Refinement ---------------- */
+const questionRefinerPrompt = PromptTemplate.fromTemplate(`
+You are a question refiner for an AI assistant.
 
+Your goal:
+- If the query is incomplete or vague, rewrite it into a complete, context-rich question using the provided reference context.
+- If the query is already complete, return it unchanged.
+- The rewritten question must make sense to a large language model and be specific to the provided context.
+
+User query:
+"{query}"
+
+Reference context:
+{context}
+
+Return ONLY the improved question, nothing else.
+`);
+
+const refinementChain = new LLMChain({
+  llm: new Ollama({
+    baseUrl: OLLAMA_BASE_URL,
+    model: CLASSIFIER_MODEL,
+    temperature: 0.3,
+    maxTokens: 100,
+  }),
+  prompt: questionRefinerPrompt,
+});
+
+async function refineQuestion(query) {
+  await loadKnowledgeBase();
+  const relevantChunks = await findRelevantChunks(query, 3);
+
+  if (relevantChunks.length === 0) {
+    return null;
+  }
+
+  const context = relevantChunks.map(r => r.text).join("\n\n");
+  const result = await refinementChain.call({ query, context });
+  return result.text.trim();
+}
+
+/** ---------------- Knowledge Base + Embeddings ---------------- */
 let vectorStore = []; // [{ embedding, text, fileName }]
 
 async function loadKnowledgeBase(filePaths = KNOWLEDGE_FILES) {
@@ -180,32 +218,39 @@ async function findRelevantChunks(question, topK = 3, threshold = 0.3) {
   console.log(`Top ${topK} results for query "${question}":`, topResults.map(r => r.fileName));
 
   if (topResults[0]?.score < threshold) {
-    return []; // Not confident enough → return empty to prevent hallucination
+    return [];
   }
 
   return topResults;
 }
 
 /** ---------------- Ask Route ---------------- */
-
 app.post('/ask', async (req, res) => {
   const { query } = req.body;
   if (!query) return res.status(400).json({ error: 'Missing query.' });
 
-  // Step 1: Validate question
-  const isValid = await validateQuestion(query);
-  if (!isValid) {
-    return res.send("Could you provide more details about your question?");
-  }
-
   try {
+    // Step 1: Validate question
+    const isValid = await validateQuestion(query);
+    let finalQuery = query;
+
+    if (!isValid) {
+      const refined = await refineQuestion(query);
+      if (refined) {
+        finalQuery = refined;
+        console.log(`🔍 Refined Query: "${finalQuery}"`);
+      } else {
+        return res.send("Could you provide more details about your question?");
+      }
+    }
+
     // Step 2: Classify role
-    const role = await classifyRole(query);
+    const role = await classifyRole(finalQuery);
     const basePrompt = agentPrompts[role] || agentPrompts.general_info;
 
-    // Step 3: Load knowledge base and find relevant chunks
+    // Step 3: Load KB and find relevant chunks
     await loadKnowledgeBase();
-    const relevantChunks = await findRelevantChunks(query, 3);
+    const relevantChunks = await findRelevantChunks(finalQuery, 3);
 
     if (relevantChunks.length === 0) {
       return res.send(`will forward this to our ${role.replace('_', ' ')}`);
@@ -236,7 +281,7 @@ ${context}
         stream: false,
         messages: [
           { role: 'system', content: systemPrompt },
-          { role: 'user', content: query }
+          { role: 'user', content: finalQuery }
         ],
         options: {
           temperature: 1,
